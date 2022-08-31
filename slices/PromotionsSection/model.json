@@ -1,0 +1,85 @@
+{
+  "id": "promotions_section",
+  "type": "SharedSlice",
+  "name": "PromotionsSection",
+  "description": "PromotionsSection",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "PromotionsSection",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "Section title",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "Section description",
+            "allowTargetBlank": true,
+            "multi": "paragraph,list-item"
+          }
+        },
+        "buttonText": {
+          "type": "Text",
+          "config": {
+            "label": "Button Text",
+            "placeholder": ""
+          }
+        },
+        "buttonLink": {
+          "type": "Link",
+          "config": {
+            "label": "Button Link",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "sectionImage": {
+          "type": "Image",
+          "config": {
+            "label": "Section Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "backgroundColor": {
+          "type": "Text",
+          "config": {
+            "label": "Background Color",
+            "placeholder": "Tailwind background class"
+          }
+        },
+        "isFlipped": {
+          "type": "Boolean",
+          "config": {
+            "label": "Is Flipped",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        },
+        "reversedInMobile": {
+          "type": "Boolean",
+          "config": {
+            "label": "Reversed In Mobile",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

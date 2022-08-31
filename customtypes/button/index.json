@@ -1,0 +1,89 @@
+{
+  "id": "button",
+  "label": "Button",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "label": {
+        "type": "Text",
+        "config": {
+          "label": "label",
+          "placeholder": ""
+        }
+      },
+      "href": {
+        "type": "Link",
+        "config": {
+          "label": "href",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "buttonType": {
+        "type": "Select",
+        "config": {
+          "label": "type",
+          "placeholder": "",
+          "options": [
+            "primary",
+            "outlined"
+          ],
+          "default_value": "primary"
+        }
+      },
+      "color": {
+        "type": "Select",
+        "config": {
+          "label": "color",
+          "placeholder": "",
+          "options": [
+            "primary",
+            "dark",
+            "light"
+          ],
+          "default_value": "primary"
+        }
+      },
+      "size": {
+        "type": "Select",
+        "config": {
+          "label": "size",
+          "placeholder": "",
+          "options": [
+            "regular",
+            "sm"
+          ],
+          "default_value": "regular"
+        }
+      },
+      "image1": {
+        "type": "Image",
+        "config": {
+          "label": "image1",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "image2": {
+        "type": "Image",
+        "config": {
+          "label": "image2",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "type": {
+        "type": "Select",
+        "config": {
+          "label": "type",
+          "placeholder": "Select button category",
+          "options": [
+            "link",
+            "button"
+          ]
+        }
+      }
+    }
+  }
+}

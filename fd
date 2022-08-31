@@ -1,0 +1,121 @@
+[33mcommit 3e8fab911ccbc68d9950902cfbe908b0e31be09e[m[33m ([m[1;36mHEAD -> [m[1;32mdev/md-sagar/prismic[m[33m, [m[1;31morigin/dev/md-sagar/prismic[m[33m)[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Sat Jun 11 18:27:19 2022 +0600
+
+    globe scroll working on small device
+
+[33mcommit 58740b42d7f85dd6957f94f35b678fa4afe3ec3e[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Sat Jun 11 16:57:09 2022 +0600
+
+    FAQ component recieved data from prismic and rendered
+
+[33mcommit 584227f1fa6f1d3394e6ca5103ca8f3ee3e7f30a[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Sat Jun 11 16:24:37 2022 +0600
+
+    working on Faq component
+
+[33mcommit 04ed164507e3eb461a871ec5dc0bc72a044b6310[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Sat Jun 11 15:55:06 2022 +0600
+
+    products section is working
+
+[33mcommit 698daf4a731a52cea124599118289bcd64561ffc[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Sat Jun 11 11:33:00 2022 +0600
+
+    workday 11/6/22 started
+
+[33mcommit dd599d44bc7946ea395aa48cf5073021edcf1e12[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Thu Jun 9 20:00:24 2022 +0600
+
+    working of product data fetching problem
+
+[33mcommit 96660ecd0d7117865e83321731a28dbcfe1df2be[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Thu Jun 9 12:49:35 2022 +0600
+
+    working on fetching deep nested data using graphquery
+
+[33mcommit 686373c2db24783c983bd729e5920f751e81b41b[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Mon Jun 6 13:48:37 2022 +0600
+
+    added smooth transition animation to customer logos image component
+
+[33mcommit ea48379356fe4379e77d3bac32896d7d18c1da6e[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Sat Jun 4 14:08:35 2022 +0600
+
+    work data 6-4-22, fixed few UI bugs
+
+[33mcommit d1a8ccfa24c316aed9b7ac683a6d6e70a0245769[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Thu Jun 2 18:20:51 2022 +0600
+
+    2/6/22- day close
+
+[33mcommit 841d17de91094793d73a0a374e6658b82feaff3a[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Thu Jun 2 11:07:54 2022 +0600
+
+    2/6/22- work started
+
+[33mcommit d6a1d6adf4836f3f5f5c6b3b530a4cf0b8da64ad[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Wed Jun 1 19:58:54 2022 +0600
+
+    upto overview component prismic conversion done
+
+[33mcommit e19f0890d97231f8e549b14e7cdfe91d93575919[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Wed Jun 1 18:58:07 2022 +0600
+
+    prismic slice configuration complete
+
+[33mcommit ba3f2392dfeaf9d77422e28534af0d390b11b193[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Wed Jun 1 12:44:43 2022 +0600
+
+    added a new banner component for invidual page
+
+[33mcommit e95557cc0d8a2df7387aad45cfa5b58da0beaf08[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Wed Jun 1 11:26:27 2022 +0600
+
+    moved all the assests from previously working project
+
+[33mcommit 86a01887a5ea5757f3f3b2718f9a7bf284ea97b1[m
+Author: Mohammed Sagar <mdsagar@gotipath.com>
+Date:   Tue May 31 19:49:45 2022 +0600
+
+    added already designed component in this project
+
+[33mcommit f042514309d11da4d88daaa9a4e46194ef38dc94[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Zaied Sifat <Zaied@users.noreply.github.com>
+Date:   Tue May 31 11:39:40 2022 +0600
+
+    Update 5-31-2022
+    
+    Update 5-31-2022
+
+[33mcommit 2d3c41a64d31e6d12aa71e4cd4d2360ad41b6902[m
+Author: Zaied Sifat <Zaied@users.noreply.github.com>
+Date:   Sun May 22 17:09:03 2022 +0600
+
+    Add Hero, Slider, Products Tab sections
+
+[33mcommit aace16dd7d6d3a4ebee56720fab72144c5cec6e2[m
+Author: MH Sagor <sagor@gotipath.com>
+Date:   Sun May 22 14:44:23 2022 +0600
+
+    Setup Prismic & Slicemachine
+
+[33mcommit 579c9692628e0349acff87e7872f25bfa9835294[m
+Author: MH Sagor <sagor@gotipath.com>
+Date:   Sun May 22 12:54:52 2022 +0600
+
+    Initial commit from Create Next App

@@ -1,0 +1,34 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "hero_slider",
+    "items": [
+      {
+        "sliderWrapper": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "sliderWrapper": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "sliderWrapper": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "sliderWrapper": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      }
+    ],
+    "primary": {}
+  }
+]

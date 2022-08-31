@@ -1,0 +1,42 @@
+{
+  "id": "hero",
+  "label": "Hero",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "Title": {
+        "type": "Text",
+        "config": {
+          "label": "Title",
+          "placeholder": ""
+        }
+      },
+      "Description": {
+        "type": "Text",
+        "config": {
+          "label": "Description",
+          "placeholder": ""
+        }
+      },
+      "Buttons": {
+        "type": "Group",
+        "config": {
+          "label": "Buttons",
+          "fields": {
+            "Button": {
+              "type": "Link",
+              "config": {
+                "label": "Button",
+                "select": "document",
+                "customtypes": [
+                  "button"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

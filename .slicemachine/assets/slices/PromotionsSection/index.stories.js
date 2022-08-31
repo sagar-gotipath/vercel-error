@@ -1,0 +1,9 @@
+import MyComponent from '../../../../slices/PromotionsSection';
+
+export default {
+  title: 'slices/PromotionsSection'
+}
+
+
+export const _Default = () => <MyComponent slice={{"variation":"default","name":"Default","slice_type":"promotions_section","items":[],"primary":{"title":[{"type":"heading2","text":"Extend integrated systems","spans":[]}],"description":[{"type":"paragraph","text":"Anim occaecat aliquip laborum. Dolor ad ut eu ea laboris excepteur adipisicing consequat veniam pariatur qui nisi.","spans":[]}],"buttonText":"deliver one-to-one architectures","buttonLink":{"link_type":"Web","url":"https://slicemachine.dev"},"sectionImage":{"dimensions":{"width":900,"height":500},"alt":"Placeholder image","copyright":null,"url":"https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=900&h=500&fit=crop"},"backgroundColor":"engage plug-and-play bandwidth","isFlipped":true,"reversedInMobile":false},"id":"_Default"}} />
+_Default.storyName = 'Default'

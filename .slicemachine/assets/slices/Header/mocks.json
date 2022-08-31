@@ -1,0 +1,37 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "header",
+    "items": [
+      {
+        "title": "productize bleeding-edge eyeballs",
+        "href": "deliver innovative deliverables",
+        "type": "dropdown",
+        "items": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "title": "morph next-generation schemas",
+        "href": "scale world-class supply-chains",
+        "type": "normalmenu",
+        "items": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "title": "whiteboard global interfaces",
+        "href": "incentivize e-business paradigms",
+        "type": "megamenu",
+        "items": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      }
+    ],
+    "primary": {}
+  }
+]

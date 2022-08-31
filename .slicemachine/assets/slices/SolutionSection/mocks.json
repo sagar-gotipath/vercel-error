@@ -1,0 +1,125 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "solution_section",
+    "items": [
+      {
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Seize clicks-and-mortar channels",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Tempor dolore exercitation deserunt cillum nisi minim dolor occaecat sit reprehenderit Lorem ipsum laboris occaecat. Amet qui proident consectetur ullamco elit pariatur excepteur. Consequat laborum labore aliqua laboris ipsum.",
+            "spans": []
+          }
+        ],
+        "coverImage": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Implement ubiquitous vortals",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Aliqua nostrud laboris dolor fugiat.",
+            "spans": []
+          }
+        ],
+        "coverImage": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Incentivize 24/365 infomediaries",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "In Lorem occaecat sunt sit minim eu dolor. Quis tempor veniam est adipisicing laborum. Veniam quis veniam consequat quis minim sunt et et labore ex fugiat.",
+            "spans": []
+          }
+        ],
+        "coverImage": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Architect innovative deliverables",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Ipsum officia irure commodo adipisicing elit velit. Magna magna ad nostrud aliqua Lorem id est officia commodo velit velit. Id ad fugiat irure commodo ipsum.",
+            "spans": []
+          }
+        ],
+        "coverImage": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&h=500&fit=crop"
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Unleash innovative architectures",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Sunt veniam sit quis incididunt.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]

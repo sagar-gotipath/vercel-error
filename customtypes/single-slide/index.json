@@ -1,0 +1,56 @@
+{
+  "id": "single-slide",
+  "label": "Single Slide",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "title": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Title",
+          "placeholder": "Title of single slide",
+          "allowTargetBlank": true,
+          "single": "heading2"
+        }
+      },
+      "description": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Description",
+          "placeholder": "Description of single slide",
+          "allowTargetBlank": true,
+          "single": "paragraph"
+        }
+      },
+      "coverImage": {
+        "type": "Image",
+        "config": {
+          "label": "Cover Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "isOverlay": {
+        "type": "Boolean",
+        "config": {
+          "label": "Is Overlay",
+          "placeholder_false": "false",
+          "placeholder_true": "true",
+          "default_value": false
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "slider_button": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "slider_button",
+  "type": "SharedSlice",
+  "name": "SliderButton",
+  "description": "SliderButton",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SliderButton",
+      "primary": {
+        "label": {
+          "type": "Text",
+          "config": {
+            "label": "Label",
+            "placeholder": ""
+          }
+        },
+        "href": {
+          "type": "Link",
+          "config": {
+            "label": "Href",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "buttonType": {
+          "type": "Select",
+          "config": {
+            "label": "Button Type",
+            "placeholder": "Select button style",
+            "options": [
+              "primary",
+              "outlined"
+            ]
+          }
+        },
+        "size": {
+          "type": "Select",
+          "config": {
+            "label": "Size",
+            "placeholder": "Select button size",
+            "options": [
+              "regular",
+              "small"
+            ]
+          }
+        },
+        "type": {
+          "type": "Select",
+          "config": {
+            "label": "Type",
+            "placeholder": "Select button role type",
+            "options": [
+              "button",
+              "link"
+            ]
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

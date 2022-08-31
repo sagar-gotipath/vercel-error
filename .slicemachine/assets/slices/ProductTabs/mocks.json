@@ -1,0 +1,46 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "product_tabs",
+    "items": [
+      {
+        "title": "orchestrate global infrastructures",
+        "content": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "title": "synthesize ubiquitous channels",
+        "content": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "title": "deliver dot-com blockchains",
+        "content": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Innovate B2B e-services",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Esse esse sunt et officia eu dolore. Non commodo minim cillum cillum cupidatat irure eu sunt culpa adipisicing do.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]

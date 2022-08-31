@@ -1,0 +1,38 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "overview",
+    "items": [],
+    "primary": {
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Fugiat exercitation minim id aliqua laboris ad ullamco consectetur cillum officia sit commodo. Labore ea do magna esse dolore labore commodo ad esse non.",
+          "spans": []
+        }
+      ],
+      "CustomLink": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "linkText": "cultivate sexy supply-chains",
+      "videoThumbnail": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=900&h=500&fit=crop"
+      },
+      "modalContent": [
+        {
+          "type": "paragraph",
+          "text": "Qui eu do eu et reprehenderit fugiat duis laborum do ex culpa in pariatur labore. Cillum proident deserunt dolore qui.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]

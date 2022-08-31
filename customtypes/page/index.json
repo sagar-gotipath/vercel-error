@@ -1,0 +1,125 @@
+{
+  "id": "page",
+  "label": "Page",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "Uid",
+          "placeholder": ""
+        }
+      },
+      "Title": {
+        "type": "Text",
+        "config": {
+          "label": "Title",
+          "placeholder": ""
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "call_to_action": {
+              "type": "SharedSlice"
+            },
+            "company_feature": {
+              "type": "SharedSlice"
+            },
+            "customer_logos": {
+              "type": "SharedSlice"
+            },
+            "customer_stories": {
+              "type": "SharedSlice"
+            },
+            "faq_section": {
+              "type": "SharedSlice"
+            },
+            "feature1": {
+              "type": "SharedSlice"
+            },
+            "feature2": {
+              "type": "SharedSlice"
+            },
+            "hero_section_banner": {
+              "type": "SharedSlice"
+            },
+            "hero_slider": {
+              "type": "SharedSlice"
+            },
+            "infra": {
+              "type": "SharedSlice"
+            },
+            "overview": {
+              "type": "SharedSlice"
+            },
+            "price_section": {
+              "type": "SharedSlice"
+            },
+            "privacy_policy": {
+              "type": "SharedSlice"
+            },
+            "price_table": {
+              "type": "SharedSlice"
+            },
+            "product_tabs": {
+              "type": "SharedSlice"
+            },
+            "promotions_section": {
+              "type": "SharedSlice"
+            },
+            "section1": {
+              "type": "SharedSlice"
+            },
+            "section2": {
+              "type": "SharedSlice"
+            },
+            "solution_section": {
+              "type": "SharedSlice"
+            },
+            "thank_you": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    },
+    "SEO": {
+      "MetaTitle": {
+        "type": "Text",
+        "config": {
+          "label": "Meta Title",
+          "placeholder": ""
+        }
+      },
+      "MetaDescription": {
+        "type": "Text",
+        "config": {
+          "label": "Meta Description",
+          "placeholder": ""
+        }
+      },
+      "MetaImage": {
+        "type": "Image",
+        "config": {
+          "label": "Meta Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "isIndexed": {
+        "type": "Boolean",
+        "config": {
+          "label": "Is Indexed",
+          "placeholder_false": "false",
+          "placeholder_true": "true",
+          "default_value": true
+        }
+      }
+    }
+  }
+}

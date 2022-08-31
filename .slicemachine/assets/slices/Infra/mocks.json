@@ -1,0 +1,50 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "infra",
+    "items": [
+      {
+        "locationName": "enhance compelling markets",
+        "geoPin": {
+          "latitude": 48.8583736,
+          "longitude": 2.2922926
+        }
+      },
+      {
+        "locationName": "e-enable transparent applications",
+        "geoPin": {
+          "latitude": 48.8606111,
+          "longitude": 2.337644
+        }
+      },
+      {
+        "locationName": "whiteboard turn-key paradigms",
+        "geoPin": {
+          "latitude": 48.8841267,
+          "longitude": 2.3300579
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Repurpose leading-edge interfaces",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Amet eu proident ullamco aliqua ea adipisicing dolore voluptate labore excepteur minim deserunt culpa aute minim. Ut cillum esse consectetur commodo sint esse quis voluptate velit veniam elit do amet commodo. Duis proident duis Lorem deserunt.",
+          "spans": []
+        }
+      ],
+      "globalLink": {
+        "link_type": "Web",
+        "url": "https://prismic.io"
+      }
+    }
+  }
+]

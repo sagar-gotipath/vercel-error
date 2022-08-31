@@ -1,0 +1,100 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "feature1",
+    "items": [
+      {
+        "title": [
+          {
+            "type": "heading3",
+            "text": "Morph distributed eyeballs",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Enim ad sint proident velit Lorem ullamco sunt amet laborum eu.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": [
+          {
+            "type": "heading3",
+            "text": "Scale granular channels",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Ut cillum do ea nulla dolor sint officia esse. Lorem aute nisi enim velit veniam eiusmod duis aute id et veniam velit laboris veniam id.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": [
+          {
+            "type": "heading3",
+            "text": "Visualize extensible technologies",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Do aliquip ullamco minim deserunt velit eiusmod velit eu incididunt sit aliqua laboris ex ut. Voluptate ullamco adipisicing non nostrud. Duis amet sit labore Lorem.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?w=900&h=500&fit=crop"
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Innovate vertical users",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Ut commodo minim adipisicing magna ullamco laboris mollit exercitation voluptate labore est.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]

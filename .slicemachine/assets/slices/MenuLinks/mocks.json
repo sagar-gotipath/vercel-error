@@ -1,0 +1,34 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "menu_links",
+    "items": [
+      {
+        "title": "morph bricks-and-clicks convergence",
+        "href": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
+        "type": "1",
+        "items": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "title": "drive clicks-and-mortar partnerships",
+        "href": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "type": "1",
+        "items": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      }
+    ],
+    "primary": {}
+  }
+]

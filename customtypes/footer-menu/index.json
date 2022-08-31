@@ -1,0 +1,84 @@
+{
+  "id": "footer-menu",
+  "label": "Footer",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "Uid",
+          "placeholder": ""
+        }
+      },
+      "logo": {
+        "type": "Image",
+        "config": {
+          "label": "Logo",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "facebookLink": {
+        "type": "Link",
+        "config": {
+          "label": "Facebook Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "twitterLink": {
+        "type": "Link",
+        "config": {
+          "label": "Twitter Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "linkedinLink": {
+        "type": "Link",
+        "config": {
+          "label": "Linkedin Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "privacyPolicyLink": {
+        "type": "Link",
+        "config": {
+          "label": "Privacy Policy Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "legalLink": {
+        "type": "Link",
+        "config": {
+          "label": "Legal Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "cookiePolicyLink": {
+        "type": "Link",
+        "config": {
+          "label": "Cookie Policy Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "sub_navigation_item": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

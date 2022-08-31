@@ -1,0 +1,40 @@
+{
+  "id": "65448164-be20-4fae-aa1a-20adeebec4a4",
+  "uid": "autem-adipisci-dolore",
+  "type": "footer-menu",
+  "data": {
+    "logo": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?w=900&h=500&fit=crop"
+    },
+    "facebookLink": {
+      "link_type": "Web",
+      "url": "https://slicemachine.dev"
+    },
+    "twitterLink": {
+      "link_type": "Web",
+      "url": "http://twitter.com"
+    },
+    "linkedinLink": {
+      "link_type": "Web",
+      "url": "https://slicemachine.dev"
+    },
+    "privacyPolicyLink": {
+      "link_type": "Web",
+      "url": "http://google.com"
+    },
+    "legalLink": {
+      "link_type": "Web",
+      "url": "https://prismic.io"
+    },
+    "cookiePolicyLink": {
+      "link_type": "Web",
+      "url": "https://prismic.io"
+    }
+  }
+}

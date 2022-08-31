@@ -1,0 +1,126 @@
+--root {
+  --PhoneInput-color--focus: transparent;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  p {
+    @apply !leading-[26px];
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-zinc-900;
+  }
+
+  .text-white h1,
+  .text-white h2,
+  .text-white h3,
+  .text-white h4,
+  .text-white h5,
+  .text-white h6 {
+    color: white;
+  }
+
+  h3 {
+    @apply text-lg;
+  }
+
+  .ez-toc-container > h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply relative;
+  }
+}
+
+@layer components {
+  .custom-td {
+    @apply px-10 py-4;
+  }
+  .cdn-custom-td {
+    @apply px-6 py-4 pl-9;
+  }
+
+  .cdn-custom-th {
+    @apply px-2 py-4 text-xs pl-7;
+  }
+
+  .custom-left-border {
+    @apply border-l border-neutral-200;
+  }
+  .custom-border {
+    @apply border border-neutral-200 last:border-b-0 last:border-r-0;
+  }
+
+  .video-transcoder-th {
+    @apply px-6 py-4 text-left;
+  }
+
+  .video-transcoder-td {
+    @apply px-6 py-4;
+  }
+}
+
+@layer utilities {
+  /* custom class for customer logos animation */
+
+  .customers-logos {
+    /* background-image: url(https://i.ibb.co/6RcRYwG/customer-logos.png); */
+    width: 100%;
+    height: 90px;
+    background-repeat: repeat-x;
+    background-position: 0px 0px;
+    transition: background-position 50s linear;
+  }
+}
+
+html,
+body {
+  @apply text-base antialiased bg-white text-neutral-700 font-inter font-feature-default;
+}
+
+.swiper-pagination-bullet {
+  background: #fff !important;
+  width: 30px !important;
+  height: 2px !important;
+  border-radius: 0 !important;
+}
+
+.swiper-pagination {
+  bottom: 20px !important;
+}
+
+.react-tel-input .form-control,
+.react-tel-input .flag-dropdown {
+  background: transparent !important;
+  border: 0px solid transparent !important;
+}
+
+.ez-toc-section {
+  position: absolute;
+  top: -80px;
+}
+
+.table-content p {
+  margin: 16px 0px;
+  color: #000;
+  font-weight: 500;
+}
+
+.table-content li {
+  margin: 8px 0px;
+}

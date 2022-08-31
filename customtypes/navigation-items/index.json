@@ -1,0 +1,21 @@
+{
+  "id": "navigation-items",
+  "label": "Navigation Items",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "sub_navigation_item": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

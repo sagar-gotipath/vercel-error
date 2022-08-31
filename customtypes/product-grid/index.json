@@ -1,0 +1,84 @@
+{
+  "id": "product-grid",
+  "label": "Product Grid",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "items": {
+        "type": "Group",
+        "config": {
+          "label": "Items",
+          "fields": {
+            "icon": {
+              "type": "Image",
+              "config": {
+                "label": "Icon",
+                "constraint": {},
+                "thumbnails": []
+              }
+            },
+            "title": {
+              "type": "StructuredText",
+              "config": {
+                "label": "Title",
+                "placeholder": "",
+                "allowTargetBlank": true,
+                "single": "heading3"
+              }
+            },
+            "description": {
+              "type": "StructuredText",
+              "config": {
+                "label": "Description",
+                "placeholder": "",
+                "allowTargetBlank": true,
+                "single": "paragraph"
+              }
+            },
+            "ctaText": {
+              "type": "Text",
+              "config": {
+                "label": "Cta Text",
+                "placeholder": ""
+              }
+            },
+            "ctaRightText": {
+              "type": "Text",
+              "config": {
+                "label": "Cta Right Text",
+                "placeholder": "Insert price unit"
+              }
+            },
+            "isPrice": {
+              "type": "Boolean",
+              "config": {
+                "label": "Is Price",
+                "placeholder_false": "false",
+                "placeholder_true": "true",
+                "default_value": false
+              }
+            },
+            "price": {
+              "type": "Number",
+              "config": {
+                "label": "Price",
+                "placeholder": "Insert item price"
+              }
+            },
+            "ctaButton": {
+              "type": "Link",
+              "config": {
+                "label": "Cta Button",
+                "select": "document",
+                "customtypes": [
+                  "button"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

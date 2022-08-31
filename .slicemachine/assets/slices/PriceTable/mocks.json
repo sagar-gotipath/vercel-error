@@ -1,0 +1,11 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "price_table",
+    "items": [],
+    "primary": {
+      "displayPriceSection": true
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "slider_button",
+    "items": [],
+    "primary": {
+      "label": "benchmark global e-commerce",
+      "href": {
+        "link_type": "Web",
+        "url": "http://twitter.com"
+      },
+      "buttonType": "primary",
+      "size": "small",
+      "type": "link"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "id": "hero_section_banner",
+  "type": "SharedSlice",
+  "name": "HeroSectionBanner",
+  "description": "HeroSectionBanner",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HeroSectionBanner",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "Hero section title",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "Hero section description",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "coverImage": {
+          "type": "Image",
+          "config": {
+            "label": "Cover Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "isOverlay": {
+          "type": "Boolean",
+          "config": {
+            "label": "Is Overlay",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        }
+      },
+      "items": {
+        "label": {
+          "type": "Text",
+          "config": {
+            "label": "Label",
+            "placeholder": "Type button label"
+          }
+        },
+        "href": {
+          "type": "Link",
+          "config": {
+            "label": "Href",
+            "placeholder": "Insert button link",
+            "select": null
+          }
+        },
+        "buttonType": {
+          "type": "Select",
+          "config": {
+            "label": "Button Type",
+            "placeholder": "",
+            "options": [
+              "primary",
+              "outlined"
+            ]
+          }
+        },
+        "size": {
+          "type": "Select",
+          "config": {
+            "label": "Size",
+            "placeholder": "",
+            "options": [
+              "regular",
+              "small"
+            ]
+          }
+        },
+        "color": {
+          "type": "Select",
+          "config": {
+            "label": "Color",
+            "placeholder": "",
+            "options": [
+              "white",
+              "dark"
+            ]
+          }
+        },
+        "type": {
+          "type": "Select",
+          "config": {
+            "label": "Type",
+            "placeholder": "",
+            "options": [
+              "button",
+              "link"
+            ]
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

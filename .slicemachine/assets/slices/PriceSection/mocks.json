@@ -1,0 +1,151 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "price_section",
+    "items": [
+      {
+        "icon": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=900&h=500&fit=crop"
+        },
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Reintermediate sticky deliverables",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Anim voluptate enim ex et reprehenderit laboris Lorem voluptate ipsum ex et nisi ut id aliquip. Officia nisi est est non duis dolore culpa Lorem non ad in do magna magna reprehenderit.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "icon": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=900&h=500&fit=crop"
+        },
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Implement impactful convergence",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Labore quis quis ad reprehenderit eu adipisicing nisi eu eiusmod amet sit est ea. Fugiat dolor Lorem fugiat pariatur in labore. Magna labore minim exercitation voluptate laborum commodo nostrud commodo elit est.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "icon": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?w=900&h=500&fit=crop"
+        },
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Deploy B2B channels",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Cillum veniam aute anim eiusmod sint. Adipisicing nisi consequat nulla duis ex ullamco nisi.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "icon": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=900&h=500&fit=crop"
+        },
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Envisioneer global niches",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Enim culpa sit dolor sint nisi amet fugiat anim qui.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "icon": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&h=500&fit=crop"
+        },
+        "title": [
+          {
+            "type": "heading4",
+            "text": "Engage best-of-breed synergies",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Cupidatat aliqua occaecat pariatur deserunt. Eiusmod mollit nisi laborum commodo. Consequat minim amet excepteur magna cillum amet aute proident aliquip nisi fugiat.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Facilitate proactive architectures",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Dolore exercitation est dolore. Esse reprehenderit Lorem reprehenderit dolore dolore ad cillum aliquip irure voluptate mollit esse. Lorem eu laborum cillum ullamco dolor tempor dolor esse Lorem duis.",
+          "spans": []
+        }
+      ],
+      "bgHexColorCode": "empower bricks-and-clicks schemas"
+    }
+  }
+]

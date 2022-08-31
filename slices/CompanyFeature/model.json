@@ -1,0 +1,63 @@
+{
+  "id": "company_feature",
+  "type": "SharedSlice",
+  "name": "CompanyFeature",
+  "description": "CompanyFeature",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "CompanyFeature",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": "Insert section title here..."
+          }
+        },
+        "featureLists": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Feature Lists",
+            "placeholder": "Insert feature lists",
+            "allowTargetBlank": true,
+            "single": "list-item"
+          }
+        },
+        "button1": {
+          "type": "Link",
+          "config": {
+            "label": "Button1",
+            "select": "document",
+            "customtypes": [
+              "button"
+            ]
+          }
+        },
+        "button2": {
+          "type": "Link",
+          "config": {
+            "label": "Button2",
+            "select": "document",
+            "customtypes": [
+              "button"
+            ]
+          }
+        },
+        "coverImage": {
+          "type": "Image",
+          "config": {
+            "label": "Cover Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

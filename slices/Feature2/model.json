@@ -1,0 +1,71 @@
+{
+  "id": "feature2",
+  "type": "SharedSlice",
+  "name": "Feature2",
+  "description": "Feature2",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Feature2",
+      "primary": {
+        "sectionTitle": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Section Title",
+            "placeholder": "Insert section title",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          }
+        },
+        "sectionDescription": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Section Description",
+            "placeholder": "Insert section description",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "backgroundColor": {
+          "type": "Text",
+          "config": {
+            "label": "Background Color",
+            "placeholder": "Insert hex code with # or tailwind"
+          }
+        }
+      },
+      "items": {
+        "icon": {
+          "type": "Image",
+          "config": {
+            "label": "Icon",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "Insert feature card title",
+            "allowTargetBlank": true,
+            "single": "heading4"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "Insert feature card description",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

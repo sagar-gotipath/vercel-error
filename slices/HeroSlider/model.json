@@ -1,0 +1,29 @@
+{
+  "id": "hero_slider",
+  "type": "SharedSlice",
+  "name": "HeroSlider",
+  "description": "HeroSlider",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HeroSlider",
+      "primary": {},
+      "items": {
+        "sliderWrapper": {
+          "type": "Link",
+          "config": {
+            "label": "Slider Wrapper",
+            "select": "document",
+            "customtypes": [
+              "single-slide"
+            ]
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

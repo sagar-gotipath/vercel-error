@@ -1,0 +1,9 @@
+import MyComponent from '../../../../slices/FaqSection';
+
+export default {
+  title: 'slices/FaqSection'
+}
+
+
+export const _Default = () => <MyComponent slice={{"variation":"default","name":"Default","slice_type":"faq_section","items":[{"question":[{"type":"heading3","text":"Leverage compelling markets","spans":[]}],"answer":[{"type":"paragraph","text":"Laborum esse irure do est in velit ex aliqua quis duis amet fugiat aliqua.","spans":[]}]},{"question":[{"type":"heading3","text":"Orchestrate impactful communities","spans":[]}],"answer":[{"type":"paragraph","text":"Laborum laboris adipisicing ea fugiat excepteur aliqua id aute officia veniam aliqua proident pariatur. Nulla aute non officia sint ullamco tempor nostrud excepteur laboris do laborum nulla dolore eu enim. Aute labore eiusmod qui.","spans":[]}]},{"question":[{"type":"heading3","text":"Target wireless markets","spans":[]}],"answer":[{"type":"paragraph","text":"Nostrud cillum deserunt anim.","spans":[]}]},{"question":[{"type":"heading3","text":"Drive visionary relationships","spans":[]}],"answer":[{"type":"paragraph","text":"Duis ipsum ullamco magna ipsum mollit aliqua tempor excepteur. Sint irure elit laborum excepteur cupidatat ea amet nulla.","spans":[]}]}],"primary":{"title":[{"type":"heading2","text":"Innovate virtual niches","spans":[]}],"description":[{"type":"paragraph","text":"Est officia quis mollit.","spans":[]}]},"id":"_Default"}} />
+_Default.storyName = 'Default'

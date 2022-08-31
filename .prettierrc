@@ -1,0 +1,6 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "max-len": 120,
+    "printWidth": 120
+}

@@ -1,0 +1,60 @@
+{
+  "id": "overview",
+  "type": "SharedSlice",
+  "name": "Overview",
+  "description": "Overview",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Overview",
+      "primary": {
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "A nice description of your feature",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          }
+        },
+        "CustomLink": {
+          "type": "Link",
+          "config": {
+            "label": "Custom Link",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "linkText": {
+          "type": "Text",
+          "config": {
+            "label": "Link Text",
+            "placeholder": ""
+          }
+        },
+        "videoThumbnail": {
+          "type": "Image",
+          "config": {
+            "label": "Video Thumbnail",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "modalContent": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Modal Content",
+            "placeholder": "Insert your modal iframe code",
+            "allowTargetBlank": true,
+            "single": "preformatted"
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

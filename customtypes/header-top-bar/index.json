@@ -1,0 +1,63 @@
+{
+  "id": "header-top-bar",
+  "label": "Header Top Bar",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "LeftNavbar": {
+        "type": "Group",
+        "config": {
+          "label": "Left Navbar",
+          "fields": {
+            "Link": {
+              "type": "Link",
+              "config": {
+                "label": "Link",
+                "placeholder": "",
+                "select": null
+              }
+            },
+            "Label": {
+              "type": "Text",
+              "config": {
+                "label": "Label",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      },
+      "RightNavbar": {
+        "type": "Group",
+        "config": {
+          "label": "Right Navbar",
+          "fields": {
+            "Link": {
+              "type": "Link",
+              "config": {
+                "label": "Link",
+                "placeholder": "",
+                "select": null
+              }
+            },
+            "Label": {
+              "type": "Text",
+              "config": {
+                "label": "Label",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {}
+        }
+      }
+    }
+  }
+}

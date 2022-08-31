@@ -1,0 +1,59 @@
+{
+  "id": "infra",
+  "type": "SharedSlice",
+  "name": "Infra",
+  "description": "Infra",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Infra",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "Section description",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "globalLink": {
+          "type": "Link",
+          "config": {
+            "label": "Global Link",
+            "placeholder": "Enter global network link",
+            "select": null
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format",
+      "items": {
+        "locationName": {
+          "type": "Text",
+          "config": {
+            "label": "Location Name",
+            "placeholder": ""
+          }
+        },
+        "geoPin": {
+          "type": "GeoPoint",
+          "config": {
+            "label": "Geo Pin"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "_cts": {
+    "page": {},
+    "menu": {},
+    "footer-menu": {},
+    "Footer Menu": {},
+    "price-table": {},
+    "single-slide": {},
+    "policyPage": {
+      "pageTitle": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "slices": {
+    "PromotionsSection": {},
+    "Section2": {
+      "default": {
+        "items": {}
+      }
+    },
+    "Footer": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "ProductTabs": {
+      "default": {
+        "items": {},
+        "primary": {}
+      }
+    },
+    "Header": {
+      "default": {
+        "items": {},
+        "primary": {}
+      }
+    },
+    "PriceTable": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Feature2": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "FaqSection": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        },
+        "items": {
+          "answer": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "HeroSectionBanner": {},
+    "PrivacyPolicy": {
+      "default": {
+        "primary": {},
+        "items": {
+          "sectionTitle": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "SubNavigationItem": {
+      "default": {
+        "items": {}
+      }
+    },
+    "PriceSection": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "CallToAction": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "ThankYou": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}
